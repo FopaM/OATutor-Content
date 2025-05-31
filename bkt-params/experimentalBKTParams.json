@@ -46,5 +46,17 @@
         "probTransit": 0.18,
         "probSlip": 0.2,
         "probGuess": 0.23
+    },
+    "general_knowledge": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "european_continent": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
     }
 }
