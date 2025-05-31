@@ -1,0 +1,19 @@
+{
+    "id": "zzzzz_gg1",
+    "stepAnswer": [
+        "France"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which of these is a neighbouring country of Germany?",
+    "stepBody": "Which of these is a neighbouring country of Germany?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Spain",
+            "Sweden",
+            "France",
+            "Greece",
+            "Ireland"
+        ],
+    "answerLatex": "France"
+}
