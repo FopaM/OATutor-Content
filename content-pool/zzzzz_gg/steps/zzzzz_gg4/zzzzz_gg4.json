@@ -1,18 +1,19 @@
 {
-    "id": "zzzzz_git001c",
+    "id": "zzzzz_gg3",
     "stepAnswer": [
-        "A separate version of the main repository."
+          "Bavaria"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "In Git, a branch is:",
-    "stepBody": "",
+    "stepTitle": "Which German state is in the south?",
+    "stepBody": "Which German state is in the south?",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "Nothing, it is a nonsense word.",
-            "A separate version of the main repository.",
-            "A secret part of Git config.",
-            "A small wooden stick you can use to type commands."
+        "Schleswig-Holstein",
+        "Bavaria",
+        "Brandenburg",
+        "Bremen",
+        "Saxony-Anhalt"
         ],
-    "answerLatex": "A separate version of the main repository."
+    "answerLatex": "Bavaria"
 }

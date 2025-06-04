@@ -37,7 +37,9 @@
                     "general_knowledge": 0.85,
                     "first_grade_geography_knowldge": 0.85,
                     "european_continent": 0.85,
-                    "landscape_of_germany": 0.85
+                    "landscape_of_germany": 0.85,
+                    "CardinalDirectionKnowledge": 0.85,
+                    "GermanGeographyFeatures": 0.85
                 }
             }
         ]
