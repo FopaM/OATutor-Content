@@ -1,22 +1,22 @@
 [
     {
-        "id": "zzzzz_gg3-h1",
+        "id": "zzzzz_gg4-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "It’s famous for Oktoberfest",
-        "text": "It’s famous for Oktoberfest",
+        "title": "You can find it in the west of the country, near cities like Cologne",
+        "text": "You can find it in the west of the country, near cities like Cologne",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "zzzzz_gg3-h2",
+        "id": "zzzzz_gg4-h2",
         "type": "hint",
         "dependencies": [
-            "zzzzz_gg3-h1"
+            "zzzzz_gg4-h1"
         ],
-        "title": "It borders Austria and has the Alps",
-        "text": "It borders Austria and has the Alps",
+        "title": "It is used for moving ships and products between Germany and other countries",
+        "text": "It is used for moving ships and products between Germany and other countries",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -1,19 +1,19 @@
 {
-    "id": "zzzzz_gg3",
+    "id": "zzzzz_gg4",
     "stepAnswer": [
-          "Bavaria"
+          "River"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Which German state is in the south?",
-    "stepBody": "Which German state is in the south?",
+    "stepTitle": "The Rhine is a:",
+    "stepBody": "The Rhine is a:",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "Schleswig-Holstein",
-        "Bavaria",
-        "Brandenburg",
-        "Bremen",
-        "Saxony-Anhalt"
+            "Mountain",
+            "River",
+            "City",
+            "Forest",
+            "Lake"
         ],
-    "answerLatex": "Bavaria"
+    "answerLatex": "River"
 }
