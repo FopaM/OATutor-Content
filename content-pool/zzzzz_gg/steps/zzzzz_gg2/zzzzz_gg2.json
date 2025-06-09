@@ -1,16 +1,19 @@
 {
-    "id": "zzzzz_git001b",
+    "id": "zzzzz_gg1",
     "stepAnswer": [
-        "False"
+        "France"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Git is same with Github.",
-    "stepBody": "",
+    "stepTitle": "Which of these is a neighbouring country of Germany?",
+    "stepBody": "Which of these is a neighbouring country of Germany?",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "False",
-            "True"
+            "Spain",
+            "Sweden",
+            "France",
+            "Greece",
+            "Ireland"
         ],
-    "answerLatex": "False"
+    "answerLatex": "France"
 }

@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "What is the capital city of Germany?",
-    "stepBody": "What the capital city of Germany?",
+    "stepBody": "What is the capital city of Germany?",
     "answerType": "string",
     "variabilization": {},
     "choices": [
