@@ -3,7 +3,7 @@
     "title": "The Geography of Germany",
     "body": "Answer the following questions.",
     "variabilization": {},    
-    "ore": "https://git-scm.com/docs/gittutorial <Git SCM: gittutorial>",
+    "ore": "",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
     "lesson": "1.3: Geography",
     "courseName": "ILE Lab"
