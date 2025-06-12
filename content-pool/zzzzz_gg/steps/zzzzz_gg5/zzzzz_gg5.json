@@ -1,0 +1,11 @@
+{
+    "id": "zzzzz_gg5",
+    "stepAnswer": ["Hamburg"],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What city is known for the Harbor and Elbe River?",
+    "stepBody": "What city is known for the Harbor and Elbe River?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": ["Munich", "Leipzig", "Stuttgart", "Hamburg", "Dresden"],
+    "answerLatex": "Hamburg"
+}

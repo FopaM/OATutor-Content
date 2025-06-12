@@ -1,13 +1,18 @@
 {
     "id": "zzzzz_gg4",
+<<<<<<< HEAD
     "stepAnswer": [
           "River"
     ],
+=======
+    "stepAnswer": ["River"],
+>>>>>>> 97cb136b4e0fe1f3c1522b4c05c2b5e0d3a6ef83
     "problemType": "MultipleChoice",
     "stepTitle": "The Rhine is a:",
     "stepBody": "The Rhine is a:",
     "answerType": "string",
     "variabilization": {},
+<<<<<<< HEAD
     "choices": [
             "Mountain",
             "River",
@@ -15,5 +20,8 @@
             "Forest",
             "Lake"
         ],
+=======
+    "choices": ["Mountain", "River", "City", "Forest", "Lake"],
+>>>>>>> 97cb136b4e0fe1f3c1522b4c05c2b5e0d3a6ef83
     "answerLatex": "River"
 }

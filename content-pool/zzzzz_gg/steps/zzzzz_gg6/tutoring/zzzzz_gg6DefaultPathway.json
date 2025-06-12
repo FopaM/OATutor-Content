@@ -1,0 +1,21 @@
+[{
+        "id": "zzzzz_gg6-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Range hint",
+        "text": "It is more than 15 but less than 17.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_gg6-h2",
+        "type": "hint",
+        "dependencies": ["zzzzz_gg6-h1"],
+        "title": "Examples",
+        "text": "Berlin, Bavaria, and Saxony are some of them.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,19 +1,11 @@
 {
     "id": "zzzzz_gg3",
-    "stepAnswer": [
-          "Bavaria"
-    ],
+    "stepAnswer": ["Bavaria"],
     "problemType": "MultipleChoice",
     "stepTitle": "Which German state is in the south?",
     "stepBody": "Which German state is in the south?",
     "answerType": "string",
     "variabilization": {},
-    "choices": [
-        "Schleswig-Holstein",
-        "Bavaria",
-        "Brandenburg",
-        "Bremen",
-        "Saxony-Anhalt"
-        ],
+    "choices": ["Schleswig-Holstein", "Bavaria", "Brandenburg", "Bremen", "Saxony-Anhalt"],
     "answerLatex": "Bavaria"
 }

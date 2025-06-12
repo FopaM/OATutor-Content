@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": "zzzzz_gg3-h1",
@@ -5,6 +6,14 @@
         "dependencies": [],
         "title": "It’s famous for Oktoberfest",
         "text": "It’s famous for Oktoberfest",
+=======
+[{
+        "id": "zzzzz_gg3-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Famous festival?",
+        "text": "This state is known for Oktoberfest.",
+>>>>>>> 97cb136b4e0fe1f3c1522b4c05c2b5e0d3a6ef83
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -12,11 +21,17 @@
     {
         "id": "zzzzz_gg3-h2",
         "type": "hint",
+<<<<<<< HEAD
         "dependencies": [
             "zzzzz_gg3-h1"
         ],
         "title": "It borders Austria and has the Alps",
         "text": "It borders Austria and has the Alps",
+=======
+        "dependencies": ["zzzzz_gg3-h1"],
+        "title": "Geographical location?",
+        "text": "It borders Austria and is in the south.",
+>>>>>>> 97cb136b4e0fe1f3c1522b4c05c2b5e0d3a6ef83
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

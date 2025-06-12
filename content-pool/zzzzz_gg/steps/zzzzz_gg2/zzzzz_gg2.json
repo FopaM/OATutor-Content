@@ -1,5 +1,5 @@
 {
-    "id": "zzzzz_gg1",
+    "id": "zzzzz_gg2",
     "stepAnswer": [
         "France"
     ],
@@ -9,11 +9,11 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "Spain",
-            "Sweden",
-            "France",
-            "Greece",
-            "Ireland"
-        ],
+        "Spain",
+        "Sweden",
+        "France",
+        "Greece",
+        "Ireland"
+    ],
     "answerLatex": "France"
 }

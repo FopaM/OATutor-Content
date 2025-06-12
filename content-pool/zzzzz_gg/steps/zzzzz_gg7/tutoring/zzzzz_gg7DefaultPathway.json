@@ -1,0 +1,21 @@
+[{
+        "id": "zzzzz_gg7-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Location clue",
+        "text": "This sea is west of Denmark.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_gg7-h2",
+        "type": "hint",
+        "dependencies": ["zzzzz_gg7-h1"],
+        "title": "Name clue",
+        "text": "It shares its name with the direction it's located in.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

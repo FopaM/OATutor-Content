@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "courseName": "ILE Lab",
@@ -41,7 +42,45 @@
                     "CardinalDirectionKnowledge": 0.85,
                     "GermanGeographyFeatures": 0.85
                 }
+=======
+[{
+    "courseName": "ILE Lab",
+    "courseOER": "https://link_to_your_oer_resource.com",
+    "courseLicense": "https://creativecommons.org/licenses/by/4.0/",
+    "lessons": [{
+            "id": "kai_history_test",
+            "name": "1.1 History of Science",
+            "topics": "Famous history figures",
+            "allowRecycle": true,
+            "learningObjectives": {
+                "historical_context": 0.85,
+                "research_significance": 0.85
+>>>>>>> 97cb136b4e0fe1f3c1522b4c05c2b5e0d3a6ef83
             }
-        ]
-    }
-]
+        },
+        {
+            "id": "kai_git_tutor",
+            "name": "1.2: Introduction to Git",
+            "topics": "Understanding Git",
+            "allowRecycle": true,
+            "learningObjectives": {
+                "basic_git_concepts": 0.85,
+                "basic_git_operations": 0.85,
+                "branching_and_merging": 0.85,
+                "remote_repositories": 0.85,
+                "undoing_changes": 0.85,
+                "collaboration_and_workflows": 0.85
+            }
+        },
+        {
+            "id": "Group1_geography-of-Germany_tutor",
+            "name": "1.3: Geography",
+            "topics": "The Geography of Germany",
+            "allowRecycle": true,
+            "learningObjectives": {
+                "general_knowledge": 0.85,
+                "european_continent": 0.85
+            }
+        }
+    ]
+}]
