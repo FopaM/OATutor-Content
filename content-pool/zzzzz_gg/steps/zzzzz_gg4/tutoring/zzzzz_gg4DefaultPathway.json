@@ -1,19 +1,17 @@
-<<<<<<< HEAD
 [
     {
         "id": "zzzzz_gg4-h1",
         "type": "hint",
         "dependencies": [],
         "title": "You can find it in the west of the country, near cities like Cologne",
-        "text": "You can find it in the west of the country, near cities like Cologne",
-=======
-[{
+        "text": "You can find it in the west of the country, near cities like Cologne"
+    },
+    {
         "id": "zzzzz_gg4-h1",
         "type": "hint",
         "dependencies": [],
         "title": "Where does it flow?",
         "text": "It flows through cities like Cologne and Düsseldorf.",
->>>>>>> 97cb136b4e0fe1f3c1522b4c05c2b5e0d3a6ef83
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -21,17 +19,9 @@
     {
         "id": "zzzzz_gg4-h2",
         "type": "hint",
-<<<<<<< HEAD
-        "dependencies": [
-            "zzzzz_gg4-h1"
-        ],
-        "title": "It is used for moving ships and products between Germany and other countries",
-        "text": "It is used for moving ships and products between Germany and other countries",
-=======
         "dependencies": ["zzzzz_gg4-h1"],
         "title": "Feature type?",
         "text": "It's one of the longest rivers in Europe.",
->>>>>>> 97cb136b4e0fe1f3c1522b4c05c2b5e0d3a6ef83
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
