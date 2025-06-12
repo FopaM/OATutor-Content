@@ -1,0 +1,11 @@
+{
+    "id": "zzzzz_gg10",
+    "stepAnswer": ["Spree"],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which river flows through the city of Berlin?",
+    "stepBody": "Which river flows through the city of Berlin?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": ["Rhine", "Elbe", "Danube", "Spree", "Main"],
+    "answerLatex": "Spree"
+}

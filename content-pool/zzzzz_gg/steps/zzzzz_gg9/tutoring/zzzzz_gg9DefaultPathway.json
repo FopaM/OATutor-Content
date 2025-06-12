@@ -1,19 +1,19 @@
 [{
-        "id": "zzzzz_gg2-h1",
+        "id": "zzzzz_gg9-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Geographic location?",
-        "text": "It is located to the west of Germany.",
+        "title": "Local name",
+        "text": "It’s called 'Schwarzwald' in German.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "zzzzz_gg2-h2",
+        "id": "zzzzz_gg9-h2",
         "type": "hint",
-        "dependencies": ["zzzzz_gg2-h1"],
-        "title": "Famous landmark?",
-        "text": "The Eiffel Tower is located in this country.",
+        "dependencies": ["zzzzz_gg9-h1"],
+        "title": "What is it known for?",
+        "text": "It's famous for cuckoo clocks and dense trees.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

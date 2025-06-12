@@ -1,0 +1,11 @@
+{
+    "id": "zzzzz_gg9",
+    "stepAnswer": ["Black Forest"],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which famous forest is located in the southwest of Germany?",
+    "stepBody": "Which famous forest is located in the southwest of Germany?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": ["Amazon Rainforest", "Sherwood Forest", "Black Forest", "Pine Forest", "Green Wood"],
+    "answerLatex": "Black Forest"
+}

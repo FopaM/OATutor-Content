@@ -1,18 +1,11 @@
 {
-    "id": "zzzzz_git001c",
-    "stepAnswer": [
-        "A separate version of the main repository."
-    ],
+    "id": "zzzzz_gg4",
+    "stepAnswer": ["River"],
     "problemType": "MultipleChoice",
-    "stepTitle": "In Git, a branch is:",
-    "stepBody": "",
+    "stepTitle": "The Rhine is a:",
+    "stepBody": "The Rhine is a:",
     "answerType": "string",
     "variabilization": {},
-    "choices": [
-            "Nothing, it is a nonsense word.",
-            "A separate version of the main repository.",
-            "A secret part of Git config.",
-            "A small wooden stick you can use to type commands."
-        ],
-    "answerLatex": "A separate version of the main repository."
+    "choices": ["Mountain", "River", "City", "Forest", "Lake"],
+    "answerLatex": "River"
 }

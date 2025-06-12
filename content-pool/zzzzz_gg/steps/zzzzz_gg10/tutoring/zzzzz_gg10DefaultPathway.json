@@ -1,22 +1,19 @@
-[
-    {
-        "id": "zzzzz_gg1-h1",
+[{
+        "id": "zzzzz_gg10-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Something famous in this city?",
-        "text": "A wall once seperated the city into two, but has fallen now.",
+        "title": "Origin?",
+        "text": "It starts in the Lusatian Mountains.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "zzzzz_gg1-h2",
+        "id": "zzzzz_gg10-h2",
         "type": "hint",
-        "dependencies": [
-            "zzzzz_gg1-h1"
-        ],
-        "title": "What else is famous in this city?",
-        "text": "The German parliament has its headquaters here.",
+        "dependencies": ["zzzzz_gg10-h1"],
+        "title": "City tour?",
+        "text": "You can take boat tours on this river in Berlin.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -1,19 +1,19 @@
 [{
-        "id": "zzzzz_gg2-h1",
+        "id": "zzzzz_gg5-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Geographic location?",
-        "text": "It is located to the west of Germany.",
+        "title": "Port city?",
+        "text": "This city is in northern Germany and has a major port.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "zzzzz_gg2-h2",
+        "id": "zzzzz_gg5-h2",
         "type": "hint",
-        "dependencies": ["zzzzz_gg2-h1"],
-        "title": "Famous landmark?",
-        "text": "The Eiffel Tower is located in this country.",
+        "dependencies": ["zzzzz_gg5-h1"],
+        "title": "Size?",
+        "text": "It’s Germany’s second-largest city after Berlin.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

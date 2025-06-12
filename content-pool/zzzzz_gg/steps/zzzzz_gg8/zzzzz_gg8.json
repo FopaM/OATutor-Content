@@ -1,0 +1,11 @@
+{
+    "id": "zzzzz_gg8",
+    "stepAnswer": ["Black - Red - Yellow"],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What color is the German flag from top to bottom?",
+    "stepBody": "What color is the German flag from top to bottom?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": ["Red - Black - Yellow", "Yellow - Red - Black", "Black - Red - Yellow", "Red - Yellow - Black", "Black - Yellow - Red"],
+    "answerLatex": "Black - Red - Yellow"
+}
