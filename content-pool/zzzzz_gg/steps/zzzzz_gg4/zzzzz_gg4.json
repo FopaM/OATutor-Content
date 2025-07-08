@@ -1,11 +1,10 @@
 {
     "id": "zzzzz_gg4",
-    "stepAnswer": ["River"],
-    "problemType": "MultipleChoice",
+    "stepAnswer": ["River", "river"],
+    "problemType": "TextBox",
     "stepTitle": "The Rhine is a:",
     "stepBody": "The Rhine is a:",
     "answerType": "string",
     "variabilization": {},
-    "choices": ["Mountain", "River", "City", "Forest", "Lake"],
     "answerLatex": "River"
 }
