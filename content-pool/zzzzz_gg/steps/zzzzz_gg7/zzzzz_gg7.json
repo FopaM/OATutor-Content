@@ -3,7 +3,7 @@
     "stepAnswer": ["North Sea"],
     "problemType": "MultipleChoice",
     "stepTitle": "Which sea is located to the north of Germany?",
-    "stepBody": "Which sea is located to the north of Germany?",
+    "stepBody": "##q7.png",
     "answerType": "string",
     "variabilization": {},
     "choices": ["Mediterranean Sea", "Baltic Sea", "North Sea", "Black Sea", "Red Sea"],

@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Which of these is a neighbouring country of Germany?",
-    "stepBody": "Which of these is a neighbouring country of Germany?",
+    "stepBody": "##q2.jpeg",
     "answerType": "string",
     "variabilization": {},
     "choices": [

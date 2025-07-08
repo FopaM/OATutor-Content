@@ -13,7 +13,7 @@
         "type": "hint",
         "dependencies": ["zzzzz_gg2-h1"],
         "title": "Famous landmark?",
-        "text": "The Eiffel Tower is located in this country.",
+        "text": "The Eiffel Tower is located in this country. Read more here: https://www.deutschland.de/en/topic/politics/germany-nine-neighbours-facts",        
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
