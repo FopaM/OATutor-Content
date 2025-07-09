@@ -13,7 +13,7 @@
         "type": "hint",
         "dependencies": ["zzzzz_gg10-h1"],
         "title": "City tour?",
-        "text": "You can take boat tours on this river in Berlin.",
+        "text": "You can take boat tours on this river in Berlin. Read more here: https://www.britannica.com/place/Spree-River",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

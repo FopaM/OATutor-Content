@@ -13,7 +13,7 @@
         "type": "hint",
         "dependencies": ["zzzzz_gg3-h1"],
         "title": "Geographical location?",
-        "text": "It borders Austria and is in the south.",
+        "text": "It borders Austria and is in the south. Read more here: https://www.deutschland.de/en/topic/politics/germany-europe/federal-states",        
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
