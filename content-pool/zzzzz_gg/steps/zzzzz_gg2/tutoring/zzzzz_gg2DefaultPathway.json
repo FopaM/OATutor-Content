@@ -2,8 +2,8 @@
         "id": "zzzzz_gg2-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Geographic location?",
-        "text": "It is located to the west of Germany.",
+        "title": "Geographic location and local language.",
+        "text": "It is located to the west of Germany and french is its official language.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
