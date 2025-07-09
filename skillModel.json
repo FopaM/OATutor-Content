@@ -39,12 +39,12 @@
     "zzzzz_gg2": [
         "european_continent"
     ],
-    "zzzzz_gg3": ["general_knowledge"],
-    "zzzzz_gg4": ["general_knowledge"],
-    "zzzzz_gg5": ["general_knowledge"],
-    "zzzzz_gg6": ["european_continent"],
-    "zzzzz_gg7": ["european_continent"],
+    "zzzzz_gg3": ["regional_geography"],
+    "zzzzz_gg4": ["cultural_literacy"],
+    "zzzzz_gg5": ["cultural_literacy"],
+    "zzzzz_gg6": ["civic_knowledge"],
+    "zzzzz_gg7": ["geographical_orientation"],
     "zzzzz_gg8": ["general_knowledge"],
-    "zzzzz_gg9": ["general_knowledge"],
-    "zzzzz_gg10": ["general_knowledge"]
+    "zzzzz_gg9": ["cultural_literacy"],
+    "zzzzz_gg10": ["regional_geography"]
 }
